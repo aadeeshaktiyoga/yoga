@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yoga/static/css/main.aff870cd.css",
-    "main.js": "/yoga/static/js/main.50e3b7d0.js",
+    "main.css": "/yoga/static/css/main.5582a76a.css",
+    "main.js": "/yoga/static/js/main.3d2e4b77.js",
     "static/js/453.ed3810f9.chunk.js": "/yoga/static/js/453.ed3810f9.chunk.js",
     "index.html": "/yoga/index.html",
-    "main.aff870cd.css.map": "/yoga/static/css/main.aff870cd.css.map",
-    "main.50e3b7d0.js.map": "/yoga/static/js/main.50e3b7d0.js.map",
+    "main.5582a76a.css.map": "/yoga/static/css/main.5582a76a.css.map",
+    "main.3d2e4b77.js.map": "/yoga/static/js/main.3d2e4b77.js.map",
     "453.ed3810f9.chunk.js.map": "/yoga/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aff870cd.css",
-    "static/js/main.50e3b7d0.js"
+    "static/css/main.5582a76a.css",
+    "static/js/main.3d2e4b77.js"
   ]
 }
